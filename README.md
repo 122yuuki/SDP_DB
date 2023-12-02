@@ -1,6 +1,6 @@
 # SDP_DB　2年生向け資料
 山川研のプロメンに参加してくださった2年生の皆さんに向けた資料です。  
-以下のURLから学習してください。
+以下のリンクから学習してください。
 #  
 
 ## セクション1
@@ -8,15 +8,15 @@
 - DBとは何か
 - SQLとは何か
 - DBの使用用途  
-->「URL」
+-> [セクション1](https://github.com/122yuuki/SDP_DB/tree/main/Section_1)
 
 ## セクション2
 このパートでは、***DB基本編***の学習をします。  
 - DBの構築方法
 - 基本的SQL  
--> 「URL」
+-> [セクション2](https://github.com/122yuuki/SDP_DB/tree/main/Section_2)
 
 ## セクション3
 このパートでは、***DBプチ応用編***の学習をします。  
 - プチ応用的SQL  
--> 「URL」
+-> [セクション3](https://github.com/122yuuki/SDP_DB/tree/main/Section_3)
