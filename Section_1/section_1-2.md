@@ -35,7 +35,7 @@ DBでは、以下の図のようなテーブルを作成し、データを追加
 
 
 
-
+___
 
 [目次](https://github.com/122yuuki/SDP_DB/tree/main#readme)  
 
