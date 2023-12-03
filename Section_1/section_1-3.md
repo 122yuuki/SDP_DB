@@ -8,7 +8,11 @@ SQLの具体的な操作方法・文法は次回セクションで学習する�
 
 <img width="700" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/DB_%E3%82%AF%E3%82%A8%E3%83%AA%E8%AA%AC%E6%98%8E%E5%9B%B3.png">  
 
-## 2-1.PostgreSQLのインストール
+## 2-1.PostgreSQLとは何か
+
+PostgreSQLとは、オープンソースのデータベース言語であり、  
+
+## 2-2.PostgreSQLのインストール
 
 以降の演習問題では、PostgreSQLを使って問題に取り組んでもらうため、以下のリンクにアクセスしてPostgreSQLをインストールしてください。  
 -> [PostgreSQLをインストールする]()  
