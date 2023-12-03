@@ -15,7 +15,7 @@ PostgreSQLとは、オープンソースのデータベース言語であり、
 ## 2-2.PostgreSQLのインストール
 
 以降の演習問題では、PostgreSQLを使って問題に取り組んでもらうため、以下のリンクにアクセスしてPostgreSQLをインストールしてください。  
--> [PostgreSQLをインストールする]()  
+-> [PostgreSQLをインストールする](https://github.com/122yuuki/SDP_DB/blob/main/Section_1/PostgreSQL_install.md)  
 
 ## 補足 : 関係データベースとは？？
 関係データベース(RDB)とは、
