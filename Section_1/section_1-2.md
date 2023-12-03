@@ -18,7 +18,7 @@ DBでは、以下の図のような表(テーブル)を作成し、データを�
 
 <img width="500" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/DB_%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E4%BE%8B.png">  
 
-例えば、以下の図のテーブルである学籍番号を検索したい場合、  
+例えば、上記の図のテーブルにある学籍番号を検索したい場合、  
 
 `select 学籍番号 from 学生情報;`  
 
