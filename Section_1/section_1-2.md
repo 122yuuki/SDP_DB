@@ -31,7 +31,7 @@ DBでは、以下の図のようなテーブルを作成し、データを追加
 |b1990050|
 
 
-<img width="150" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/DB_%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E4%BE%8B.png">
+<img width="500" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/DB_%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E4%BE%8B.png">
 
 
 
