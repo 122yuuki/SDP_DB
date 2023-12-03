@@ -7,7 +7,7 @@
 
 について学習する  
 
-![画像1](https://github.com/122yuuki/SDP_DB/blob/main/Section_1/%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%B3_20230616.png)
+わからないことは、各自調べるか3年生に聞いてください。
 
 [目次へ](https://github.com/122yuuki/SDP_DB/blob/main/README.md)
 
