@@ -2,8 +2,8 @@
 このパートでは・・・　　
 
 - DBとは何か
-- PostgreSQLとは
-- DBNの基本的概念　　
+- SQLとは何か
+- PostgreSQLのインストール　
 
 について学習する  
 
