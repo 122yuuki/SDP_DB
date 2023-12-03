@@ -12,3 +12,7 @@
 
 
 [目次へ](https://github.com/122yuuki/SDP_DB/blob/main/README.md)
+
+<div style="text-align: center;">
+    センタリングしたい文章
+</div>
