@@ -37,9 +37,9 @@ DBでは、以下の図のようなテーブルを作成し、データを追加
 
 
 
-[目次]()  
+[目次](https://github.com/122yuuki/SDP_DB/tree/main#readme)  
 
-[前のページ]()  
+[前のページ](https://github.com/122yuuki/SDP_DB/blob/main/Section_1/section_1-1.md)  
 
 [次のページ]()  
 
