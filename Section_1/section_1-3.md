@@ -4,13 +4,17 @@
 
 関係データベース(以下RDB)で利用できるクエリの形式として「***SQL***」というものがある。DBMS上でデータやデータベースを制御するための言語であり、ユーザーやシステムからの命令を受けてRDBにクエリを行い結果を返す。SQLにも種類があり、***MySQL***や***PostgreSQL***といったオープンソース、Oracle社のOracle Database、Microsoft社のMicrosoft SQL ServerやAccessなどがあるが、将来性を考えて今回はPostgreSQLを使ってDBについて学習する。  
 
-<img width="500" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/DB_%E3%82%AF%E3%82%A8%E3%83%AA%E8%AA%AC%E6%98%8E%E5%9B%B3.png">
+<img width="700" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/DB_%E3%82%AF%E3%82%A8%E3%83%AA%E8%AA%AC%E6%98%8E%E5%9B%B3.png">  
 
 ## 2.1
+
+
+
+
 ___
 
-### 関係データベースとは？？
-
+## 補足 : 関係データベースとは？？
+関係データベース(RDB)とは、
 
 ___
 
