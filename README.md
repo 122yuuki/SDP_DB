@@ -36,3 +36,4 @@ ___
 3. データモデルとは : https://analytics-okinawa.jp/database/1782/
 4. SQLとは : https://hnavi.co.jp/knowledge/blog/sql/
 5. PostgreSQLとは : https://www.fujitsu.com/jp/products/software/resources/feature-stories/postgres/what-is-postgresql/
+6. 関係データベースとは : https://www.oracle.com/jp/database/what-is-a-relational-database/  
