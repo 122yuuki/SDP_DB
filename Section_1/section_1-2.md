@@ -32,6 +32,7 @@ DBでは、以下の図のようなテーブルを作成し、データを追加
 
 
 ![DB_テーブル例](https://github.com/122yuuki/SDP_DB/blob/main/Section_1/DB_%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB%E4%BE%8B.png)
+<img src="DB_テーブル例.png" alt=DB_テーブル例" title="attach:cat" width="200" height="200">
 
 
 
