@@ -46,6 +46,6 @@ ___
 ___
 
 # 参考文献・資料
-1. データベースとは: (https://www.oracle.com/jp/database/what-is-database/)
+1. データベースとは : https://www.oracle.com/jp/database/what-is-database/
 2. データベース工学の資料(山川先生のもの)
 3. 
