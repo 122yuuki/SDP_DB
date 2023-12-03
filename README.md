@@ -8,7 +8,7 @@
 - DBとは何か
 - SQLとは何か
 - DBの使用用途  
--> [セクション1](https://github.com/122yuuki/SDP_DB/blob/main/Section_1/section_1.md)
+-> [セクション1](https://github.com/122yuuki/SDP_DB/blob/main/Section_1/section_1-1.md)
 
 ## セクション2
 このパートでは、***DB基本編***の学習をします。  
