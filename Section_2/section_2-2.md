@@ -49,10 +49,8 @@ DCLとは***Data Control Language***の略称で、データの権限を制御�
 | ステートメント名 | 意味 | 使用例 |
 | :---: | :---: | :---: |
 | GRANT | ユーザのデータ利用を許可 |　|
-| REVOK | ユーザのデータ利用許可を取消 |　|
+| REVOKE | ユーザのデータ利用許可を取消 |　|
 
-> [!NOTE]
-> Highlights information that users should take into account, even when skimming.
 ___
 [目次へ](https://github.com/122yuuki/SDP_DB/blob/main/README.md)  
 
