@@ -10,6 +10,6 @@
 
 
 ___
-[目次へ]()
+[目次へ](https://github.com/122yuuki/SDP_DB/blob/main/README.md)
 
-[次のページ]()
+[次のページ](https://github.com/122yuuki/SDP_DB/blob/main/Section_2/section_2-2.md)
