@@ -22,7 +22,7 @@ DMLとは***Date Manipulation Language***の略称で、データの操作を行
 TCLとは***Transaction Control Language***の略称で、トランザクションの制御を行うステートメントである。  
 主に3つのステートメントをよく使用する。  
 
-* BEGIN　　　トランザクションの開始　　使用例 : 
+* BEGIN　　 　トランザクションの開始　　使用例 : 
 * COMMIT　　　トランザクションの完了　　使用例 : 
 * ROLLBACK　　トランザクションの取消　　使用例 : 
 
@@ -31,8 +31,8 @@ TCLとは***Transaction Control Language***の略称で、トランザクショ�
 DDLとは***Data Define Language***の略称で、データの定義を行うステートメントである。  
 主に3つのステートメントをよく使用する。  
 
-* CREATE　データ定義の作成　　使用例 : 
-* DROP　　データ定義の削除　　使用例 : 
+* CREATE　 データ定義の作成　　使用例 : 
+* DROP　　 データ定義の削除　　使用例 : 
 * ALTER　　データ定義の変更　　使用例 :
 
 ## 1-4.DCL
@@ -40,7 +40,7 @@ DDLとは***Data Define Language***の略称で、データの定義を行うス
 DCLとは***Data Control Language***の略称で、データの権限を制御するステートメントである。  
 主に2つのステートメントをよく使用する。  
 
-* GRANT　　ユーザのデータ利用を許可
+* GRANT　　 ユーザのデータ利用を許可
 * REVOKE　　ユーザのデータ利用許可を取消
 
 
