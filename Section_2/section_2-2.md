@@ -14,8 +14,8 @@ DMLとは***Date Manipulation Language***の略称で、データの操作を行
 
 | ステートメント名 | 意味 | 使用例 |
 | :---: | :---: | :---: |
-| INSERT | タプルの追加 |`insert into テーブル名(列名1, 列名2, …)`<br>`   values(列名1のデータ, 列名2のデータ, …)`|
-| UPDATE | タプルの更新 |　|
+| INSERT | タプルの追加 |`insert into テーブル名(列名1, 列名2, …)`<br>`   values(列名1のデータ, 列名2のデータ, …);`|
+| UPDATE | タプルの更新 |`update テーブル名`<br>`   set 列名1 = データ, 列名2 = データ, …`|
 | SELECT | タプルの検索 |　|
 | DELET | タプルの削除 |　|
 
