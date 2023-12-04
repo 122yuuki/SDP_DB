@@ -8,18 +8,21 @@
 このパートでは、***DB入門***の学習をします。  
 - DBとは何か
 - SQLとは何か
-- PostgreSQLのインストール  
+- PostgreSQLのインストール
+
 -> [Section 1](https://github.com/122yuuki/SDP_DB/blob/main/Section_1/section_1-1.md)
 
 ## Section 2
 このパートでは、***DB基本編***の学習をします。  
 - SQLの基本的文法
-- PostgreSQLでDB設計  
+- PostgreSQLでDB設計
+
 -> [Section 2](https://github.com/122yuuki/SDP_DB/blob/main/Section_2/section_2-1.md)
 
 ## Section 3
 このパートでは、***DBプチ応用編***の学習をします。  
-- テーブルの正規化  
+- テーブルの正規化
+
 -> [Section 3](https://github.com/122yuuki/SDP_DB/blob/main/Section_3/section_3-1.md)
 
 ## Section 4
