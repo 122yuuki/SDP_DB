@@ -1,4 +1,4 @@
-# Section 2　DB入門
+# Section 2　DB基本編
 
 このパートでは・・・  
 
@@ -6,8 +6,6 @@
 - PostgreSQLでDB設計
 
 について学習する。
-
-
 
 ___
 [目次へ](https://github.com/122yuuki/SDP_DB/blob/main/README.md)
