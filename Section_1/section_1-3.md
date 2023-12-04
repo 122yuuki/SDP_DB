@@ -13,7 +13,7 @@ SQLの具体的な操作方法・文法は次回セクションで学習する�
 PostgreSQL(以下ポスグレ)とは、オープンソースソフトウェアのデータベース言語であり、***リレーショナルデータベース管理システム***(RDBMS)である。  
 ポスグレを使う理由として、標準SQLの大半に準拠、さらに標準SQLを拡張しているため、高品質のシステム開発をすることが可能である。  
 
-<img width="600" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/PostgreSQL_%E5%9B%B3.png">
+<img width="500" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/PostgreSQL_%E5%9B%B3.png">
 
 ## 2-2.PostgreSQLのインストール
 
