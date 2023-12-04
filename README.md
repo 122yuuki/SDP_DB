@@ -25,7 +25,8 @@
 ## Section 4
 このパートでは、***演習問題***を通して理解を深めます。  
 主に、クエリの使い方について演習を通して学習します。  
--> [Section 4]()
+
+-> [Section 4](https://github.com/122yuuki/SDP_DB/blob/main/Section_4/sql_prac.md)
 
 ___
 ___
