@@ -363,7 +363,11 @@ from 学生
 * 合計の算出：sum、最大値の算出：max、最小値の算出：min、平均値の算出：avg、行数のカウント：count
 * 値がnullであるか：is null、値がnull以外であるか：is not null
 
+___
 
+[目次へ](https://github.com/122yuuki/SDP_DB/blob/main/README.md)
+
+___
 
 ## 参考
 
