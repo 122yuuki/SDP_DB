@@ -51,6 +51,11 @@ DCLとは***Data Control Language***の略称で、データの権限を制御�
 | GRANT | ユーザのデータ利用を許可 |　|
 | REVOK | ユーザのデータ利用許可を取消 |　|
 
+:::note info
+インフォメーション
+infoは省略可能です。
+:::
+
 ___
 [目次へ](https://github.com/122yuuki/SDP_DB/blob/main/README.md)  
 
