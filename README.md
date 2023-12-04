@@ -40,4 +40,5 @@ ___
 3. データモデルとは : https://analytics-okinawa.jp/database/1782/
 4. SQLとは : https://hnavi.co.jp/knowledge/blog/sql/
 5. PostgreSQLとは : https://www.fujitsu.com/jp/products/software/resources/feature-stories/postgres/what-is-postgresql/
-6. 関係データベースとは : https://wa3.i-3-i.info/word15439.html  
+6. 関係データベースとは : https://wa3.i-3-i.info/word15439.html
+7. クエリ種類 : https://cs.wingarc.com/manual/drsum/5.6/ja/UUID-526c9d49-68ec-9e2a-ec68-76b7e83fc839.html
