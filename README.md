@@ -20,7 +20,7 @@
 ## Section 3
 このパートでは、***DBプチ応用編***の学習をします。  
 - テーブルの正規化  
--> [Section 3](https://github.com/122yuuki/SDP_DB/tree/main/Section_3)
+-> [Section 3](https://github.com/122yuuki/SDP_DB/blob/main/Section_3/section_3-1.md)
 
 ## Section 4
 このパートでは、***演習問題***を通して理解を深めます。  
