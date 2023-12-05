@@ -48,7 +48,7 @@ DBを構築する上で重要となるのが、「***データモデル***」の
 データモデルに関連することとして***スキーマ***という機械的な枠組み、データの完全性・安全性を保つための***トランザクション***などがあるが、まずはDBとはどんな手段なのかをイメージしてもらうために、このDBの学習では割愛する。  
 ___
 
-[目次](https://github.com/122yuuki/SDP_DB/tree/main#readme)  
+[目次](https://github.com/122yuuki/SDP_DB/blob/main/README.md)  
 
 [前のページ](https://github.com/122yuuki/SDP_DB/blob/main/Section_1/section_1-1.md)  
 
