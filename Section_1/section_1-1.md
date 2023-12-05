@@ -1,4 +1,4 @@
-# Section 1　DB入門
+# Section 1　DB入門編
 このパートでは・・・　　
 
 - DBとは何か
