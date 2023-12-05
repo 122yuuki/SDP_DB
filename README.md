@@ -31,6 +31,13 @@
 
 -> [Section 4](https://github.com/122yuuki/SDP_DB/blob/main/Section_4/sql_prac.md)
 
+## おまけ
+
+DBの学習をしてもらったため、Javaと連携してよりDBを理解してもらいたいと思っています。  
+資料作成者の余裕があれば、これについての資料を作成します。  
+
+-> [おまけ]()
+
 ___
 ___
 
