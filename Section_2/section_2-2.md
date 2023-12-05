@@ -58,11 +58,15 @@ DCLとは***Data Control Language***の略称で、データの権限を制御�
 
 この2つのSQLは、頻繁には使用しない。  
 
-## 1-5.その他
+## 1-5.データ型
 
 データを扱う際、データにも様々な種類がある。例えば、整数型、実数型、文字、文字列など  
+今まで使用してきたプログラム言語と似たものもあるため、すぐに覚えることができるだろう。
 
-
+| 型名 | キーワード | 意味 |
+|:---:|:---:|:---:|
+|ブール値型|`boolean`|真偽値 trueやfalse|
+|数値型|`integer`<br>`bigint`<br>`float`<br>`double`|32bit整数<br>64bit整数<br>32bit実数<br>64bit実数|
 
 ___
 [目次へ](https://github.com/122yuuki/SDP_DB/blob/main/README.md)  
