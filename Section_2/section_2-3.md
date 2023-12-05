@@ -39,9 +39,9 @@ select 学籍番号 from 学生情報
 2．「***order by句***」とは、出力結果のタプルの順番を降順もしくは昇順に並べ替えるときに使用する。  
 
 - `asc`：昇順
-- `desc`：降順
+- `desc`：降順  
 
-使い方：` order by 列名 ascまたはdesc;` 
+使い方：` order by 列名 ascまたはdesc;`   
 
 例：
 ```
