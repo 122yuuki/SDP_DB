@@ -44,7 +44,7 @@ DDLとは***Data Define Language***の略称で、データの定義を行うス
 | DROP | データ定義の削除 | `drop table テーブル名;` |
 | ALTER | データ定義の変更 | `alter table テーブル名 add column 列名 データ型;` |
 
-※ALTERについて、他にも使用例が複数あるためこちらの[サイト](https://itc.tokyo/sql/alter-table/)を参考にするように。  
+※ALTERについて、他にも使用例が複数あるためこちらの[サイト](https://itc.tokyo/sql/alter-table/)を参考に。  
 
 ## 1-4.DCL
 
