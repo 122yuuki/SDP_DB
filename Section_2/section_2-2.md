@@ -67,6 +67,9 @@ DCLとは***Data Control Language***の略称で、データの権限を制御�
 |:---:|:---:|:---:|
 |ブール値型|`boolean`|真偽値 trueやfalse|
 |数値型|`integer`<br>`bigint`<br>`float`<br>`double`|32bit整数<br>64bit整数<br>32bit実数<br>64bit実数|
+|連番型|`serial`|integerの連番|
+|文字列型|`char`<br>`varchar`|固定長<br>可変長|
+|日付・時刻型|`date`<br>`timestamp`|日付<br>日付・時刻|
 
 ___
 [目次へ](https://github.com/122yuuki/SDP_DB/blob/main/README.md)  
