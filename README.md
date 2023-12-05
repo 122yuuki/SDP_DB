@@ -36,7 +36,7 @@
 DBの学習をしてもらったため、Javaと連携してよりDBを理解してもらいたいと思っています。  
 資料作成者の余裕があれば、これについての資料を作成します。  
 
--> [おまけ]()
+-> [おまけ](https://github.com/122yuuki/SDP_DB/blob/main/Section_1/ready.md)
 
 ___
 ___
