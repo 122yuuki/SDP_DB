@@ -10,14 +10,20 @@
 
 where句は、特定のカラム(列)もしくはタプル(組)に操作をさせてたいときに使用する。
 
-使い方 : ` where 条件式 `
+使い方 : ` where 条件式; `
 
 使用例 : 
 ```
 select 学籍番号 from 学生情報
   where クラス = 'A';
-
 ```
+
+実行結果 : 
+| 学籍番号 |
+|:---:|
+|b1990000|
+|b1990050|
+
 
 ___
 [目次へ](https://github.com/122yuuki/SDP_DB/blob/main/README.md)  
