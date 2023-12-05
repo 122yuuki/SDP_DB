@@ -14,6 +14,7 @@ PostgreSQL(以下ポスグレ)とは、オープンソースソフトウェア�
 ポスグレは、標準SQLの大半に準拠、さらに標準SQLを拡張しているため、高品質のシステム開発をすることが可能。そのため、多くの企業でポスグレが採用されている。
 
 <img width="500" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/PostgreSQL_%E5%9B%B3.png">  
+引用元:https://www.fujitsu.com/jp/products/software/resources/feature-stories/postgres/what-is-postgresql/
 
 ## 2-2.PostgreSQLのインストール
 
