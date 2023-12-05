@@ -28,6 +28,6 @@ PostgreSQL(以下ポスグレ)とは、オープンソースソフトウェア�
 
 ___
 
-[目次へ](https://github.com/122yuuki/SDP_DB/blob/main/READNE.md)  
+[目次へ](https://github.com/122yuuki/SDP_DB/blob/main/README.md)  
 
 [前のページ](https://github.com/122yuuki/SDP_DB/blob/main/Section_1/section_1-2.md)  
