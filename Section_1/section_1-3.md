@@ -20,7 +20,8 @@ PostgreSQL(以下ポスグレ)とは、オープンソースソフトウェア�
 
 以降の演習では、PostgreSQLを使って演習に取り組んでもらうため、以下のリンクにアクセスしてPostgreSQLをインストールしてください。  
 
--> [PostgreSQLをインストールする](https://github.com/122yuuki/SDP_DB/blob/main/Section_1/ready.md)  
+-> [PostgreSQLをインストールする(windows版)](https://github.com/122yuuki/SDP_DB/blob/main/Section_1/ready.md)  
+-> [PostgreSQLをインストールする(Mac版)](https://github.com/122yuuki/SDP_DB/blob/main/Section_1/ready.md)  
 
 ## 補足 : 関係データベースとは？？
 関係データベース(RDB)とは、データを表形式で扱っているデータベースのことである。(リレーショナルデータベースともいう)  
