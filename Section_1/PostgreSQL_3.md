@@ -7,14 +7,17 @@
 
 ___
 
-「***設定***」　->　「***アカウント***」　->　「**他のユーザー***」　->　「***アカウントの追加***」でローカルアカウントを作成します。  
+「***設定***」->「***アカウント***」->「**他のユーザー***」->「***アカウントの追加***」でローカルアカウントを作成します。  
+
 <img src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_ano/ano_1.png">
 
 画像の赤枠をクリックして進んでください。  
+
 <img src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_ano/ano_2.png">
 
 ユーザー情報を入力するように言われるので、各自入力をしてください。ただし、***ユーザー名を半角英字***で入力してください。  
 ユーザーの追加ができたら、「***アカウントの種類の変更***」でアカウントの種類を管理者にして下さい。  
+
 <img src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_ano/ano_3.png">
 
 ___
