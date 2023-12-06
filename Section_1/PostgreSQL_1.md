@@ -32,7 +32,7 @@
 
 <img width="700" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_win/win_3.png">  
 
-最後の画面に進んだら、赤枠のチェックを外して終了する。これでインストールは完了。  
+「next」をクリックすると、インストールが開始される。最後の画面に進んだら、赤枠のチェックを外して終了する。これでインストールは完了。  
 
 <img width="700" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_win/win_4.png">  
 
