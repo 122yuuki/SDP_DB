@@ -25,7 +25,7 @@
 
 <img width="700" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_mac/mac_2.png">  
 
-「↓」をクリックして、「***Japanese, Japan***」を選択する。そのまま次へ進む。  
+「↓」をクリックして、「***jp_JP.UTF-8***」を選択する。そのまま次へ進む。  
 
 <img width="700" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_mac/mac_3.png">  
 
