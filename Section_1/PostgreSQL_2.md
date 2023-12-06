@@ -9,7 +9,7 @@
 以下のリンクにアクセスし、図のようにインストーラーをダウンロードする。  
 -> https://www.enterprisedb.com/downloads/postgres-postgresql-downloads  
 
-<img width="500" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/PostgreSQL_%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB(mac).png">  
+<img width="650" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/PostgreSQL_%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB(mac).png">  
 
 ## 1-2.インストーラーの展開・PostgreSQLのダウンロード
 
