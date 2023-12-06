@@ -7,9 +7,9 @@
 
 ___
 
-<img width="750" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_ano/ano_1.png">
-<img width="750" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_ano/ano_2.png">
-<img width="750" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_ano/ano_3.png">
+<img src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_ano/ano_1.png">
+<img src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_ano/ano_2.png">
+<img src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_ano/ano_3.png">
 
 
 ___
