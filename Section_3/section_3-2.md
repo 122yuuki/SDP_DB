@@ -11,6 +11,7 @@
 <img width="700" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_3/img_nor/nor_6.png">
 <img width="700" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_3/img_nor/nor_7.png">
 <img width="700" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_3/img_nor/nor_8.png">
+<img width="700" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_3/img_nor/nor_9.png">
 
 ___
 [目次へ](https://github.com/122yuuki/SDP_DB/blob/main/README.md)  
