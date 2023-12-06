@@ -18,20 +18,20 @@
 ファイルを展開すると以下の図のような画面が出るので、進めていく。  
 チェック項目が4つある画面が出るが、全てチェックが入っているはずなので入っていない場合は全てにチェックをつけて、次に進む。
 
-<img width="700" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_win/win_1.png">  
+<img width="700" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_mac/mac_1.png">  
 
 パスワードは、学籍番号にするとよい。  
 ポート番号はそのままで次に進む。  
 
-<img width="700" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_win/win_2.png">  
+<img width="700" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_mac/mac_2.png">  
 
 「↓」をクリックして、「***Japanese, Japan***」を選択する。そのまま次へ進む。  
 
-<img width="700" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_win/win_3.png">  
+<img width="700" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_mac/mac_3.png">  
 
 「next」をクリックすると、インストールが開始される。最後の画面に進んだら、赤枠のチェックを外して終了する。これでインストールは完了。  
 
-<img width="700" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_win/win_4.png">  
+<img width="700" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/img_mac/mac_4.png">  
 
 ___
 
