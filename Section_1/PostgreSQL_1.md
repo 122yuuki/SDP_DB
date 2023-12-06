@@ -3,7 +3,7 @@
 以下の手順でインストールをしてください。  
 
 もし、以下のようなエラーメッセージが出たら、以下のリンクから解決してみてください。  
--> [エラーの解決](https://github.com/122yuuki/SDP_DB/blob/main/Section_1/ready.md)
+-> [エラーの解決](https://github.com/122yuuki/SDP_DB/blob/main/Section_1/PostgreSQL_3.md)
 
 <img width="600" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_1/error_img.png">  
 
