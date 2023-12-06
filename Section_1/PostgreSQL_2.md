@@ -1,0 +1,2 @@
+# PostgreSQLのインストール(Mac版)
+
