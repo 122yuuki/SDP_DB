@@ -157,19 +157,19 @@ count関数やmax関数といった数学的関数をSQLで使用することで
 | 関数名 | 意味 | 使用例 |
 | :---: | :---: | :---: |
 | length | 文字列の文字数を求める |`select length(列名) from テーブル名;`|
-| UPDATE | タプルの更新 |`update テーブル名 set 列名1 = データ, 列名2 = データ, …;`|
-| SELECT | タプルの検索 |`select 列名1,列名2, … from テーブル名;`|
-| DELET | タプルの削除 |`delete from テーブル名;`|
+| lower | 小文字に変換 |`select lower(列名) from テーブル名;`|
+| upper | 大文字に変換 |`select upper(列名) from テーブル名;`|
+| abs | 絶対値を求める |`select abs(列名) from テーブル名;`|
+| sqrt | 平方根を求める |`select sqrt(列名) from テーブル名;`|
 
 集約関数：検索結果の全組を集約して計算や加工を行う関数。　　
 | 関数名 | 意味 | 使用例 |
 | :---: | :---: | :---: |
-| INSERT | タプルの追加 |`insert into テーブル名(列名1, 列名2, …) values(列名1のデータ, 列名2のデータ, …);`|
-| UPDATE | タプルの更新 |`update テーブル名 set 列名1 = データ, 列名2 = データ, …;`|
-| SELECT | タプルの検索 |`select 列名1,列名2, … from テーブル名;`|
-| DELET | タプルの削除 |`delete from テーブル名;`|
-
-
+| sum | 合計値を計算する |`select sum(列名) from テーブル名;`|
+| avg | 平均値を求める |`select avg(列名) from テーブル名;`|
+| max | 最大値を求める |`select max(列名) from テーブル名;`|
+| min | 最小値を求める |`select min(列名) from テーブル名;`|
+| count | 検索結果の全組の組数を求める |`select count(列名) from テーブル名;`|
 ___
 [目次へ](https://github.com/122yuuki/SDP_DB/blob/main/README.md)  
 
