@@ -11,7 +11,7 @@ psql -U postgres
 と入力する。以下の画像のようにパスワードを入力するよう言われるので、インストール時に設定したパスワードを入力してログインする。 
 ログインが出ると3・4行目のようなメッセージが出る。  
 
-<img src="https://github.com/122yuuki/SDP_DB/blob/main/Section_2/sql_db/sql_1.png">
+<img width="700" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_2/sql_db/sql_1.png">
 
 もし、psqlコマンドが使えなかった場合は、[こちら](https://github.com/122yuuki/SDP_DB/blob/main/Section_2/section_2-6.md)から解決するように。 
 > [!note]
