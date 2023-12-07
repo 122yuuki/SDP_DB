@@ -8,28 +8,42 @@ PostgreSQLのインストールが完了したら、PostgreSQLを起動する。
 
 <img src="">
 
-もし、psqlコマンドが使えなかった場合は、[こちら](https://github.com/122yuuki/SDP_DB/blob/main/Section_2/section_2-6.md)から解決するように。  
+もし、psqlコマンドが使えなかった場合は、[こちら](https://github.com/122yuuki/SDP_DB/blob/main/Section_2/section_2-6.md)から解決するように。 
+> [! note]
+> `postgres=# `でセミコロン「;」を入力する前にenterを押すと、改行することができる。セミコロンを文末に入力してenterを押すと、クエリが処理される。  
 
 ## 2.PostgreSQLの設定
 
 ログインしたら、
+
 ```
 postgres=# \n
 ```
+
 と入力する(「\」が「￥」の場合もある)。そうすると以下の画像のような画面がでる。これは、データベースの一覧表である。  
 
 <img src="">
 
 データベースを作成するために、
+
 ```
 postgres=# creat database sdp_prmn;
 ```
+
 と入力する。再び
+
 ```
 postgres=# \n
 ```
-と入力すると、
 
+と入力すると、以下の画面が表示され、「sdp_prmn」というデータベースが確認されたのがわかるだろう。  
+<img src="">
+
+作成したデータベースのスキーマーに移動するために、
+
+```
+postgres=# 
+```
 
 ___
 
