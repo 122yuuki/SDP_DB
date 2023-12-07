@@ -31,7 +31,7 @@ postgres=# \l
 データベースを作成するために、以下のように入力する。  
 
 ```
-postgres=# creat database sdp_prmn;
+postgres=# create database sdp_prmn;
 ```
 
 再び以下のように入力する。  
@@ -58,11 +58,11 @@ postgres=# \c sdp_prmn
 `postgres=# `が`sdp_prmn=# `に変更されていることを確認し、以下のように入力する。  
 
 ```
-sdp_prmn=# creat table 学生情報  (ここで一度Enter)
+sdp_prmn=# create table 学生情報  (ここで一度Enter)
 sdp_prmn-# (id integer, name varchar(10));
 ```
 
-`CREAT TABLE`とメッセージが出るので確認する。  
+`CREATE TABLE`とメッセージが出るので確認する。  
 
 正しくテーブルが作成できているかを確認するために、以下のように入力する。  
 
