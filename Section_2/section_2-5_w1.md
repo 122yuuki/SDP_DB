@@ -1,8 +1,8 @@
-# Windows版
+# Windows版(Macも)
 
 ## 1. PostgreSQLの起動  
 PostgreSQLのインストールが完了したら、PostgreSQLを起動する。  
-「***コマンドプロンプト***」で、  
+「***コマンドプロンプト***(Macはターミナル)」で、  
 
 ```
 psql -U postgres
