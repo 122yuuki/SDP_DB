@@ -13,7 +13,7 @@
 pathの変更または新規作成をする。  
 「設定」->「システム」->「詳細情報」->「システムの詳細設定」->「詳細設定」->「環境変数」から、システム環境変数の「path」を編集する。  
 色々パスが書かれているが、「新規」でpsql.exeがある場所のパス(以下のパス)を入力してパスを登録する。  
-`C:\Program Files\PostgreSQL\16\bin`
+`C:\Program Files\PostgreSQL\16\bin`  
 
 <img src="">
 
