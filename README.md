@@ -46,3 +46,4 @@ ___
 6. 関係データベースとは : https://wa3.i-3-i.info/word15439.html
 7. クエリ種類 : https://cs.wingarc.com/manual/drsum/5.6/ja/UUID-526c9d49-68ec-9e2a-ec68-76b7e83fc839.html
 8. alterとは : https://itc.tokyo/sql/alter-table/
+9. PostgreSQLの使い方 : https://www.javadrive.jp/postgresql/#section_database
