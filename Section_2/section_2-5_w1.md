@@ -54,7 +54,7 @@ postgres=# \c sdp_prmn
 
 <img src="">
 
-## 3. PostgreSQLでテーブルを作る。
+## 3. PostgreSQLでテーブル作成
 `postgres=# `が`sdp_prmn=# `に変更されていることを確認し、以下のように入力する。  
 
 ```
@@ -126,6 +126,7 @@ SQLの基礎文法で学んだSQLは、PostgreSQLで使用することができ�
 | \bt ||
 | \c スキーマ名 ||
 
+これで一通りの動作確認はできたため、戻って練習問題に取り組むように。  
 
 ___
 
