@@ -21,7 +21,7 @@ psql -U postgres
 ログインしたら、  
 
 ```
-postgres=# \n
+postgres=# \l
 ```
 
 と入力する(「\」が「￥」の場合もある)。そうすると以下の画像のような画面がでる。これは、データベースの一覧表である。  
@@ -37,7 +37,7 @@ postgres=# creat database sdp_prmn;
 再び以下のように入力する。  
 
 ```
-postgres=# \n
+postgres=# \l
 ```
 
 以下の画面が表示され、「sdp_prmn」というデータベースが確認されたのがわかるだろう。 
