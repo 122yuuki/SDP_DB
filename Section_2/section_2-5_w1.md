@@ -79,10 +79,10 @@ sdp_prmn=# \dt
 
 ```
 sdp_prmn=# insert into 学生情報 (ここで一度Enter)
-sdp_prmn=# values(10,'千歳太郎'),
-sdp_prmn=# (20,'恵庭花子'),
-sdp_prmn=# (30,'苫小牧健'),
-sdp_prmn=# (40,'札幌丸子');
+sdp_prmn-# values(10,'千歳太郎'),
+sdp_prmn-# (20,'恵庭花子'),
+sdp_prmn-# (30,'苫小牧健'),
+sdp_prmn-# (40,'札幌丸子');
 ```
 
 `INSERT 0 4`とメッセージが出るので確認する。データが正しく追加されているかを確認するために、以下のように入力する。  
