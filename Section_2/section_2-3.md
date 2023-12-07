@@ -170,6 +170,9 @@ count関数やmax関数といった数学的関数をSQLで使用することで
 | max | 最大値を求める |`select max(列名) from テーブル名;`|
 | min | 最小値を求める |`select min(列名) from テーブル名;`|
 | count | 検索結果の全組の組数を求める |`select count(列名) from テーブル名;`|
+
+> [!note]
+> ちなみに、`select * from テーブル名;`とすると、指定したテーブルのデータがすべて検索され出力される。   
 ___
 [目次へ](https://github.com/122yuuki/SDP_DB/blob/main/README.md)  
 
