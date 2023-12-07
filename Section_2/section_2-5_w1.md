@@ -11,7 +11,7 @@ psql -U postgres
 と入力する。以下の画像のようにパスワードを入力するよう言われるので、インストール時に設定したパスワードを入力してログインする。 
 ログインが出ると3・4行目のようなメッセージが出る。  
 
-<img src="">
+<img src="https://github.com/122yuuki/SDP_DB/blob/main/Section_2/sql_db/sql_1.png">
 
 もし、psqlコマンドが使えなかった場合は、[こちら](https://github.com/122yuuki/SDP_DB/blob/main/Section_2/section_2-6.md)から解決するように。 
 > [!note]
@@ -26,7 +26,7 @@ postgres=# \l
 
 と入力する(「\」が「￥」の場合もある)。そうすると以下の画像のような画面がでる。これは、データベースの一覧表である。  
 
-<img src="">
+<img src="https://github.com/122yuuki/SDP_DB/blob/main/Section_2/sql_db/sql_2.png">
 
 データベースを作成するために、以下のように入力する。  
 
@@ -34,6 +34,7 @@ postgres=# \l
 postgres=# create database sdp_prmn;
 ```
 
+`CREATE DATABASE`とメッセージが出るため確認する。  
 再び以下のように入力する。  
 
 ```
@@ -42,7 +43,7 @@ postgres=# \l
 
 以下の画面が表示され、「sdp_prmn」というデータベースが確認されたのがわかるだろう。 
 
-<img src="">
+<img src="https://github.com/122yuuki/SDP_DB/blob/main/Section_2/sql_db/sql_5.png">
 
 作成したデータベースのスキーマーに移動するために、以下のように入力する。 
 
@@ -52,7 +53,7 @@ postgres=# \c sdp_prmn
 
 先ほど「sdp_prmn」DBを作成したが、そのスキーマに移動したこととなる。
 
-<img src="">
+<img src="https://github.com/122yuuki/SDP_DB/blob/main/Section_2/sql_db/sql_6.png">
 
 ## 3. PostgreSQLでテーブル作成
 `postgres=# `が`sdp_prmn=# `に変更されていることを確認し、以下のように入力する。  
@@ -72,7 +73,7 @@ sdp_prmn=# \dt
 
 そうすると、以下の画面のように表示され、そこに「学生情報」というテーブルが作成されているだろう。
 
-<img src="">
+<img src="https://github.com/122yuuki/SDP_DB/blob/main/Section_2/sql_db/sql_9.png">
 
 とはいっても、データがないと正しく列が定義されているかわからない。それを確認するために、以下のように入力する。  
 
@@ -84,7 +85,7 @@ sdp_prmn=# (30,'苫小牧健'),
 sdp_prmn=# (40,'札幌丸子');
 ```
 
-``とメッセージが出るので確認する。データが正しく追加されているかを確認するために、以下のように入力する。  
+`INSERT 0 4`とメッセージが出るので確認する。データが正しく追加されているかを確認するために、以下のように入力する。  
 
 ```
 sdp_prmn=# select * from 学生情報;
@@ -92,7 +93,7 @@ sdp_prmn=# select * from 学生情報;
 
 実行結果は画像のようになるはずだ。
 
-<img src="">
+<img src="https://github.com/122yuuki/SDP_DB/blob/main/Section_2/sql_db/sql_11.png">
 
 ## 4. テーブルの削除、データベースの削除
 
@@ -103,16 +104,17 @@ sdp_prmn=# select * from 学生情報;
 sdp_prmn=# drop table 学生情報;
 ```
 
-``とメッセージが出るので確認する。    
+`DROP TABLE`とメッセージが出るので確認する。    
 
 4-2. データベースの削除
 以下のように入力すると、データベースを削除することができる。
 
 ```
-sdp_prmn=# drop database sdp_prmn;
+sdp_prmn=# \c postres
+postgres=# drop database sdp_prmn;
 ```
 
-``とメッセージが出るので確認する。
+`DROP DATABASE`とメッセージが出るので確認する。
 
 ## 5. その他コマンド
 
