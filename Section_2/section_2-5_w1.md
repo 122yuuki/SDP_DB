@@ -45,13 +45,13 @@ postgres=# \l
 
 <img src="https://github.com/122yuuki/SDP_DB/blob/main/Section_2/sql_db/sql_5.png">
 
-作成したデータベースのスキーマーに移動するために、以下のように入力する。 
+作成したDBに移動するために、以下のように入力する。 
 
 ```
 postgres=# \c sdp_prmn
 ```
 
-先ほど「sdp_prmn」DBを作成したが、そのスキーマに移動したこととなる。
+先ほど「sdp_prmn」DBを作成したが、そのDBに移動したこととなる。
 
 <img width="500" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_2/sql_db/sql_6.png">
 
@@ -126,7 +126,7 @@ SQLの基礎文法で学んだSQLは、PostgreSQLで使用することができ�
 | \l |データベース一覧表示|
 | \dn |スキーマ一覧表示|
 | \dt |指定のデータベース内のテーブル一覧表示|
-| \c スキーマ名 |スキーマの移動|
+| \c スキーマ名 |DBの移動|
 
 これで一通りの動作確認はできたため、戻って練習問題に取り組むように。  
 
