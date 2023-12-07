@@ -11,7 +11,7 @@ psql -U postgres
 と入力する。以下の画像のようにパスワードを入力するよう言われるので、インストール時に設定したパスワードを入力してログインする。 
 ログインが出ると3・4行目のようなメッセージが出る。  
 
-<img width="700" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_2/sql_db/sql_1.png">
+<img width="500" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_2/sql_db/sql_1.png">
 
 もし、psqlコマンドが使えなかった場合は、[こちら](https://github.com/122yuuki/SDP_DB/blob/main/Section_2/section_2-6.md)から解決するように。 
 > [!note]
@@ -53,7 +53,7 @@ postgres=# \c sdp_prmn
 
 先ほど「sdp_prmn」DBを作成したが、そのスキーマに移動したこととなる。
 
-<img src="https://github.com/122yuuki/SDP_DB/blob/main/Section_2/sql_db/sql_6.png">
+<img width="500" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_2/sql_db/sql_6.png">
 
 ## 3. PostgreSQLでテーブル作成
 `postgres=# `が`sdp_prmn=# `に変更されていることを確認し、以下のように入力する。  
@@ -73,7 +73,7 @@ sdp_prmn=# \dt
 
 そうすると、以下の画面のように表示され、そこに「学生情報」というテーブルが作成されているだろう。
 
-<img src="https://github.com/122yuuki/SDP_DB/blob/main/Section_2/sql_db/sql_9.png">
+<img width="500" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_2/sql_db/sql_9.png">
 
 とはいっても、データがないと正しく列が定義されているかわからない。それを確認するために、以下のように入力する。  
 
@@ -93,7 +93,7 @@ sdp_prmn=# select * from 学生情報;
 
 実行結果は画像のようになるはずだ。
 
-<img src="https://github.com/122yuuki/SDP_DB/blob/main/Section_2/sql_db/sql_11.png">
+<img width="500" src="https://github.com/122yuuki/SDP_DB/blob/main/Section_2/sql_db/sql_11.png">
 
 ## 4. テーブルの削除、データベースの削除
 
