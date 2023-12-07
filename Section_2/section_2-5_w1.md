@@ -115,6 +115,18 @@ sdp_prmn=# drop database sdp_prmn;
 ``とメッセージが出るので確認する。
 
 ## 5. その他コマンド
+
+SQLの基礎文法で学んだSQLは、PostgreSQLで使用することができるため、各自確認するように。  
+その他PostgreSQLで使用するコマンドについて紹介する。  
+
+| コマンド | 意味 |
+|:---:|:---:|
+| \l ||
+| \bn ||
+| \bt ||
+| \c スキーマ名 ||
+
+
 ___
 
 [目次へ](https://github.com/122yuuki/SDP_DB/blob/main/README.md)
