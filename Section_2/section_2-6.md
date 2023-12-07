@@ -2,24 +2,23 @@
 
 ## 解決方法1
 「***psql.exe***」ファイルがある場所のパスをコピーし、コマンドプロンプトで`cd パス`を入力してディレクトリを移動する。  
-パスは、おそらく全員`C:\Program Files\PostgreSQL\16\bin`だと思う。
+パスは、おそらく全員`C:\Program Files\PostgreSQL\16\bin`だと思う。  
+
+<img scr="">
 
 メリットとして、ただ単にディレクトリの移動をするだけなので、簡単な操作で解決する。
 デメリットとして、コマンドプロンプトを再起動した毎にディレクトリを移動する必要がある。  
 
 ## 解決方法2
 pathの変更または新規作成をする。  
-
 「設定」->「システム」->「詳細情報」->「システムの詳細設定」->「詳細設定」->「環境変数」から、システム環境変数の「path」を編集する。  
 色々パスが書かれているが、「新規」でpsql.exeがある場所のパス(以下のパス)を入力してパスを登録する。  
 `C:\Program Files\PostgreSQL\16\bin`
 
 <img src="">
 
-解決しなかった場合は、
-
-
+解決しなかった場合は、Discordで問い合わせること。  
 ___
-[目次へ]()
+[目次へ](https://github.com/122yuuki/SDP_DB/blob/main/README.md)
 
-[戻る]()
+[戻る](https://github.com/122yuuki/SDP_DB/blob/main/Section_2/section_2-5_w1.md)
